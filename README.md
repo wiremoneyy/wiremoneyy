@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  Learning: [Rust](https://www.rust-lang.org/)
+  Learning: golang
 </div>
 
 <div align="center">
