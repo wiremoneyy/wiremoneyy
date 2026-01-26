@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  **Learning:** [Rust](https://www.rust-lang.org/)
+  Learning: [Rust](https://www.rust-lang.org/)
 </div>
 
 <div align="center">
